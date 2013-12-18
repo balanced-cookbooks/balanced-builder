@@ -13,3 +13,5 @@ end
 include_recipe 'balanced-postgres::client'
 
 include_recipe 'balanced-app'
+
+include_recipe 'rump'
